@@ -2,7 +2,11 @@
 
 body {
     font-family: 'Ubuntu', 'Helvetica Neue', 'Helvetica', sans-serif;
-    font-weight: 400;
+    font-weight: 800;
+	background-image: url("../img/fresh.jpg");
+	background-attachment: fixed; 
+	background-repeat: no-repeat;
+	background-size: cover; 
 }
 
 .product-picture {
